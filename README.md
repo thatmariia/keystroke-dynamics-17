@@ -1,7 +1,8 @@
 # Keystroke Dynamics
 
 This repository consists of code and data used for testing a model of ideantification a user by their typing behavior. 
-       *The model has been developed for a course 2WH20 at TU/e by Christian van den Berg, Finn Devlin, Mariia Turchina, Sanderijn van Loosdrecht.
+
+The model has been developed for a course 2WH20 at TU/e by Christian van den Berg, Finn Devlin, Mariia Turchina, Sanderijn van Loosdrecht.
 
   ## Files description
 
