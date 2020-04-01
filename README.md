@@ -2,7 +2,7 @@
 
 This repository consists of code and data used for testing a model of ideantification a user by their typing behavior.
 
-# Files description
+## Files description
 
 * DataCollection.py - collects raw information about each entry and stores it in a .xlsx file designated for the user.
 
